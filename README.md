@@ -4,7 +4,10 @@
 <h3> 👨‍💻: &nbsp;Sobre mim </h3>
 🤔&nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
 
+
 🎓&nbsp;Estudando Engenharia de Software na PUCRS.
+
+🔎&nbsp;Buscando meu primeiro estágio em Engenharia de Software.
 
 ### 🚀 Minhas Skills
 
