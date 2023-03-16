@@ -1,19 +1,31 @@
-## Olá! Eu sou o Augusto Leal
+## Olá devs! 👋
 
+### Eu sou o Augusto e esse é meu perfil no Github, seja bem vindo! 🔥
+<h3> 👨‍💻: &nbsp;Sobre mim </h3>
+🤔&nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" <img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-  <img align="center" alt="Rafa-Ts" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/597270060280709151/1085698449820880896/1661454364132.jpg">
-</div>
+🎓&nbsp;Estudando Engenharia de Software na PUCRS.
+
+### 🚀 Minhas Skills
+
+  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+  <img align="right" alt="Rafa-pic" height="200px" style="border-radius:150px;"       src="https://cdn.discordapp.com/attachments/597270060280709151/1086020452687827066/PngItem_4905098_1.png">
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+  <code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
   
   ##
- 
+  **Ferramentas de Desenvolvimento:**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+</div>
+
+ ##
 <div> 
+ 
+  **Minhas Redes Sociais:**
+  
   <a href="https://www.instagram.com/gutodsl_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:augustodossantosleal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augusto--leal/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
