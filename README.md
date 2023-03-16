@@ -12,7 +12,7 @@
   <img align="right" alt="Rafa-pic" height="200px" style="border-radius:150px;"       src="https://cdn.discordapp.com/attachments/597270060280709151/1086020452687827066/PngItem_4905098_1.png">
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-  <code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+  <code><img height="30" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"></code>
   
   ##
   **Ferramentas de Desenvolvimento:**
