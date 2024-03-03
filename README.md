@@ -5,9 +5,7 @@
 🤔&nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
 
 
-🎓&nbsp;Estudando Engenharia de Software na PUCRS.
 
-🔎&nbsp;Buscando meu primeiro estágio em Engenharia de Software.
 
 ### 🚀 Minhas Skills
 
@@ -17,15 +15,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
   <code><img height="30" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"></code>
   
-  ##
-  **Ferramentas de Desenvolvimento:**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-</div>
-
- ##
-<div> 
  
   **Minhas Redes Sociais:**
   
